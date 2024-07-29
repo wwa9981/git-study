@@ -1,2 +1,2 @@
 # git-study
-git, github 공
+git, github 공부
